@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listacursos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="exercise6.xsd">
+<!--DOCTYPE listacursos SYSTEM "exercise6.dtd">
+
+<listacursos-->
+    <curso>
+        <alumno>
+            <DNI>734674</DNI>
+            <nombre>Ejemplo Nombre</nombre>
+            <apellido>Ejemplo apellido</apellido>
+            <listaAsignaturas>
+                <asignatura codigo="5684">
+                    <nombre>Matematicas</nombre>
+                    <profesor>
+                        <NRP>345673</NRP>
+                        <nombre>Mario</nombre>
+                        <apellido>Ortega</apellido>
+                        <segundoApellido>Salazar</segundoApellido>
+                    </profesor>
+                </asignatura>
+                <asignatura codigo="5674">
+                    <nombre>Quimica</nombre>
+                    <profesor>
+                        <NRP>34673</NRP>
+                        <nombre>Sergio</nombre>
+                        <apellido>Ortega</apellido>
+                    </profesor>
+                </asignatura>
+            </listaAsignaturas>
+        </alumno>
+    </curso>
+</listacursos>
